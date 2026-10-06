@@ -66,7 +66,7 @@ bundle install
 
 ### Cách 3: Cài đặt từ mã nguồn (Build từ source)
 ```bash
-git clone https://github.com/chonoi/server_stats.git
+git clone https://github.com/ntamvl/server_stats.git
 cd server_stats
 gem build server_stats.gemspec
 gem install server_stats-0.1.0.gem
